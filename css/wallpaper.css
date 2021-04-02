@@ -52,3 +52,13 @@ hr {
     grid-row-start: 4;
     grid-row-end: 6;
 }
+
+.toggler {
+    visibility: hidden;
+}
+
+@media only screen and (min-width: 650px) {
+    .menu-wrap .menu > div > div > ul > li > a {
+        visibility: hidden;
+    }
+}
