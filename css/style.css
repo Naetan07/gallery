@@ -42,7 +42,7 @@ body {
 }
 
 input {
-    width: 59%;
+    width: 30%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
@@ -196,14 +196,6 @@ button:hover {
         height: 100%;
     }
 
-    .main-content .inner {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        justify-content: center;
-        height: 100%;
-    }
-    
     input {
         width: 100%;
         padding: 1rem 2rem;
