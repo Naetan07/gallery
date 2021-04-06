@@ -75,7 +75,7 @@ button:hover {
 
 @media only screen and (min-width: 650px) {
     .container {
-        width: 50vw;
+        width: 55vw;
         margin: 3rem auto;
         background: white;
         padding: 4em;
@@ -94,7 +94,7 @@ button:hover {
         margin: 2em 0;
         border: none;
         cursor: pointer;
-        width: 60%;
+        width: 50%;
         opacity: 0.8;
         transition-duration: 0.5s;
         font-size: 0.9em;
@@ -106,7 +106,7 @@ button:hover {
        
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 450px) {
     .icon {
         visibility: hidden;
     }
